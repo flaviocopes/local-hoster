@@ -1,0 +1,14 @@
+{
+  "name": "localhoster",
+  "version": "1.0.0",
+  "description": "Run any dev server behind clean http://<name>.localhost and https://<name>.localhost URLs using Caddy",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "localhoster": "./index.mjs"
+  },
+  "scripts": {
+    "check": "node --check index.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}
