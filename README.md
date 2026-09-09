@@ -4,7 +4,7 @@ This is one of the software packages I publish with full source code. The landin
 
 It is MIT licensed. You are free to use it, fork it and change it, also commercially.
 
-There is no support. Issues are turned off and there is no roadmap. Forks are welcome.
+There is no support. Issues, pull requests, discussions, and the wiki are turned off, and there is no roadmap. Forks are welcome.
 
 If you point a coding agent at this repository, have it read `AGENTS.md` first.
 
